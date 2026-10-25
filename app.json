@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Coleta Fácil BV",
+    "slug": "coleta-facil-bv",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["android", "ios", "web"],
+    "android": {
+      "package": "com.coletafacilbv.app",
+      "versionCode": 1,
+      "allowBackup": false
+    }
+  }
+}
